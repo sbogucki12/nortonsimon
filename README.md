@@ -1,5 +1,18 @@
 # NortonSimon
 
+A collection of pictures from my visit to the Norton Simon museum in Pasadena, California.
+
+## Timeline
+
++ Jan 2, 2018 - First, and probably only, commit. 
+
+## Screenshots
+
+![Imgur](https://i.imgur.com/SJy1HaR.jpg)
+![Imgur](https://i.imgur.com/yxV5T7X.jpg)
+![Imgur](https://i.imgur.com/Qlf5PcE.jpg)
+
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.6.0.
 
 ## Development server

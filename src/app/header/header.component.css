@@ -1,0 +1,13 @@
+@import url('https://fonts.googleapis.com/css?family=Bungee');
+
+#headerbg {
+    background: linear-gradient(lightblue, white);
+}
+
+#bogoodski {
+    font-family: 'Bungee', cursive;
+    color: orange;
+    font-size: 175%;
+    margin-bottom: 3%;
+    padding-top: 1%; 
+}

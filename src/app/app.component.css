@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css?family=Cedarville+Cursive');
+
+
+#directions {
+    margin-top: 5%;
+}
+
+#title {
+    font-size: 275%;
+    margin-top: 5%;
+    font-family: 'Cedarville Cursive', cursive;
+}
+
+#headerbg {
+    background: linear-gradient(lightblue white);
+}
